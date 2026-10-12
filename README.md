@@ -72,10 +72,6 @@ Add cert names + issuer + URL and I’ll render badges here (examples: Google Da
 ## Contact
 - Email: naikabhinandan3@gmail.com  
 - GitHub: https://github.com/abhi07-sr  
-- LinkedIn / Portfolio: (add links to include)
+- LinkedIn / Portfolio: https://www.linkedin.com/in/abhinandan-naik-373685355
 
----
 
-If you’d like, I can:
-- commit this README to your profile repo (abhi07-sr/abhi07-sr) or to the CareFlow repo on a new branch and open a PR, or  
-- produce a shorter minimal version for the pinned profile.
