@@ -1,77 +1,84 @@
-# Hi — I’m Abhi 👋
+# Hi, I'm Abhinandan Naik 👋
 
-Aspiring Data Analyst — I turn messy EHR event logs into clear operational insights that reduce patient wait times and improve care delivery.
+I am a Computer Science student pursuing B.Tech in Computer Science and Engineering (5th Semester), with a strong interest in Data Analytics, Machine Learning, and problem-solving through data-driven solutions.
 
-[![Followers](https://img.shields.io/github/followers/abhi07-sr?label=Followers&style=social)](https://github.com/abhi07-sr) [![Profile views](https://komarev.com/ghpvc/?username=abhi07-sr&label=Profile%20views&style=flat)](https://github.com/abhi07-sr)
+## About Me
 
----
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 📊 Interested in Data Analytics, Machine Learning, and AI
+- 💡 Passionate about transforming raw data into actionable insights
+- 🔍 Focused on learning Python, SQL, statistical analysis, and ML models
+- 📩 Email: naikabhinandan3@gmail.com
 
-Tagline: "From messy event logs to measurable operational impact."
+## Technical Skills
 
-## About
-I build end-to-end analytics pipelines and process-mining solutions for healthcare operations. I focus on reconstructing real patient pathways from timestamped EHR events, surfacing hidden loops and bottlenecks, and delivering dashboards and recommendations hospital administrators can act on.
-
-- Domain: Healthcare Operations & Process Analytics  
-- Specialty: Clinical pathway process mining, event-log engineering, operational dashboards  
-- Tools: Python (PM4Py, pandas), Google BigQuery, dbt, SQL, Power BI / Looker / Tableau, Excel, Git
-
----
-
-## Featured Projects
-
-### CareFlow — Clinical Pathway Process Mining  
-[![CareFlow stars](https://img.shields.io/github/stars/abhi07-sr/CareFlow?style=social)](https://github.com/abhi07-sr/CareFlow)  
-Clinical pathway process-mining pipeline: ingest raw EHR event logs, standardize events, discover process models (PM4Py), and visualize patient flows to reveal operational bottlenecks (e.g., paperwork loops causing re-triage).  
-Repo: https://github.com/abhi07-sr/CareFlow
-
-### EHR-Cleaner — Event Log Normalization  
-[![EHR-Cleaner](https://img.shields.io/badge/repo-EHR--Cleaner-blue?style=flat)](https://github.com/abhi07-sr/EHR-Cleaner)  
-dbt models and utilities to clean and standardize EHR event logs into (case_id, activity_name, timestamp) for reliable process analysis.  
-Repo: https://github.com/abhi07-sr/EHR-Cleaner
-
-### ProcessViz — Interactive Process Visualizations  
-[![ProcessViz](https://img.shields.io/badge/repo-ProcessViz-purple?style=flat)](https://github.com/abhi07-sr/ProcessViz)  
-Visual components and dashboard plugins to render spaghetti diagrams, bottleneck heatmaps, and path-frequency charts for non-technical stakeholders.  
-Repo: https://github.com/abhi07-sr/ProcessViz
-
----
-
-## Tech & Skills
+### Programming & Data Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF6B6B?style=for-the-badge&logo=dbt&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-11A8CD?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Analytics & ML
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB300?style=for-the-badge&logo=python&logoColor=black)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Core strengths: process mining (PM4Py), event-log engineering, SQL at scale, dashboarding for operational impact.
+## Core Areas
 
----
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Machine Learning
+- Predictive Modeling
+- Data Visualization
+- Statistical Analysis
+- Problem Solving
 
-## Impact Snapshot
-- Detected a paperwork loop affecting ~40% of ER patients in a pilot, leading to re-triage.  
-- Changes to intake forms reduced average wait time by ~20 minutes (measured).  
-- Pipeline built to scale on multi-million-row event logs stored in BigQuery.
+## Academic Focus
 
----
+- Understanding real-world data patterns and trends
+- Building ML models for prediction and decision-making
+- Learning how to derive insights from structured and unstructured datasets
+- Strengthening analytical and technical communication skills
+
+## Projects
+
+### 1. Data Analysis & Visualization Projects
+- Cleaning and analyzing datasets using Python
+- Extracting meaningful insights and trends
+- Creating reports and dashboards for better decision-making
+
+### 2. Machine Learning Projects
+- Building prediction models using supervised learning techniques
+- Evaluating model performance using accuracy, precision, recall, and other metrics
+- Improving model efficiency and interpretation
+
+### 3. Problem-Solving & Coding Practice
+- Solving DSA and programming challenges
+- Improving logical reasoning and algorithmic thinking
+- Strengthening fundamentals in Python and data structures
 
 ## GitHub Stats
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi07-sr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07-sr&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=abhi07-sr&theme=radical)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi07-sr&show_icons=true&theme=tokyonight)
 
-## Certifications & Learning
-Add cert names + issuer + URL and I’ll render badges here (examples: Google Data Analytics, Coursera, Microsoft Power BI).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi07-sr&layout=compact&theme=tokyonight)
 
----
+## Connect with Me
 
-## Contact
-- Email: naikabhinandan3@gmail.com  
-- GitHub: https://github.com/abhi07-sr  
-- LinkedIn / Portfolio: https://www.linkedin.com/in/abhinandan-naik-373685355
+- GitHub: https://github.com/abhi07-sr
+- LinkedIn: https://www.linkedin.com/in/abhinandan-naik-373685355
+- Email: naikabhinandan3@gmail.com
+
+> “I am continuously learning, building, and improving my skills in data and machine learning to contribute meaningfully to real-world projects.”
+
+Thanks for visiting my profile! 🚀
 
 
